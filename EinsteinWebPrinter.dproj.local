@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/20 16:01:08.000.108,=C:\Users\joaof\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/20 16:10:46.000.588,D:\desenvolvimento\sistemas\delphi\impressaoWeb\principal.dfm=C:\Users\joaof\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/11/20 16:10:46.000.588,D:\desenvolvimento\sistemas\delphi\impressaoWeb\principal.pas=C:\Users\joaof\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/20 16:10:49.000.550,D:\desenvolvimento\sistemas\delphi\impressaoWeb\impressaoWeb.dproj=C:\Users\joaof\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/07 14:54:05.000.812,D:\DELPHI\Einstein WebDoc\EinsteinWebDoc.dproj=D:\DELPHI\Einstein WebPrinter OLD\impressaoWeb.dproj</Transaction>
+    <Transaction>2021/07/07 15:55:11.000.251,D:\DELPHI\Einstein WebDoc\EinsteinWebDoc.dproj=D:\DELPHI\Einstein WebPrinter\EinsteinWebPrinter.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
